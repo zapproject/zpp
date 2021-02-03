@@ -1,0 +1,3 @@
+/cygdrive/d/JobRelated/blockchainCenter/zpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/JobRelated/blockchainCenter/zpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/JobRelated/blockchainCenter/zpp/cmake-build-debug/CMakeFiles/zpp.dir
